@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<WTrayOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ShowOption>3</ShowOption>
+  <UpdateOption>4</UpdateOption>
+  <CityOption>22641</CityOption>
+  <UseProxy>false</UseProxy>
+  <Proxy>10.2.0.1:3180</Proxy>
+</WTrayOptions>
